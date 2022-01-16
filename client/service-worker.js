@@ -1,4 +1,4 @@
-var CACHE_NAME = 'snapdrop-cache-v2';
+var CACHE_NAME = 'shario-cache';
 var urlsToCache = [
   'index.html',
   './',

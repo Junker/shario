@@ -1,4 +1,4 @@
-module snapdrop
+module shario
 
 go 1.17
 
