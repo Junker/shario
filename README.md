@@ -29,3 +29,8 @@ Have any questions? Read our [FAQ](/docs/faq.md).
     # or
     shario --addr localhost:5000 # (default port: 3000)
 ```
+
+## Documentation
+
+* [Nginx config example](./example/nginx.conf)
+* [Systemd service example](./example/shario.service)
